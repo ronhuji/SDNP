@@ -1,0 +1,2 @@
+call runPolicyManager
+call runSDNP

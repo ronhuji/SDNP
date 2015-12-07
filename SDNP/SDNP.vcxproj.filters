@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="KShortestPaths">
+      <UniqueIdentifier>{e112990f-20c0-498c-a932-83c08379422b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="KShortestPaths\Header Files">
+      <UniqueIdentifier>{95c4e3f6-4373-47be-94a6-36108ddfabcc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="KShortestPaths\Source Files">
+      <UniqueIdentifier>{cdbc8fd0-d35a-47b3-88a7-62bef55d0947}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Policies">
+      <UniqueIdentifier>{f0fa98f5-8649-4716-b2ac-ec5f22ba9323}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Defs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SequenceSolver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="kshortestpaths_2.1\DijkstraShortestPathAlg.h">
+      <Filter>KShortestPaths\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="kshortestpaths_2.1\Graph.h">
+      <Filter>KShortestPaths\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="kshortestpaths_2.1\GraphElements.h">
+      <Filter>KShortestPaths\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="kshortestpaths_2.1\YenTopKShortestPathsAlg.h">
+      <Filter>KShortestPaths\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MyDebugNew.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NetworkSolver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DestinationSolver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IPolicy.h">
+      <Filter>Policies</Filter>
+    </ClInclude>
+    <ClInclude Include="SrcDstPolicies.h">
+      <Filter>Policies</Filter>
+    </ClInclude>
+    <ClInclude Include="OptionalSequencePolicy.h">
+      <Filter>Policies</Filter>
+    </ClInclude>
+    <ClInclude Include="ForwardingRule.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SrcDstSolver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ISolver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AreaAvoidancePolicy.h">
+      <Filter>Policies</Filter>
+    </ClInclude>
+    <ClInclude Include="AccessControlPolicy.h">
+      <Filter>Policies</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SDNP.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="kshortestpaths_2.1\Graph.cpp">
+      <Filter>KShortestPaths\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="kshortestpaths_2.1\YenTopKShortestPathsAlg.cpp">
+      <Filter>KShortestPaths\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="kshortestpaths_2.1\DijkstraShortestPathAlg.cpp">
+      <Filter>KShortestPaths\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SequenceSolver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Defs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NetworkSolver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DestinationSolver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OptionalSequencePolicy.cpp">
+      <Filter>Policies</Filter>
+    </ClCompile>
+    <ClCompile Include="SrcDstPolicies.cpp">
+      <Filter>Policies</Filter>
+    </ClCompile>
+    <ClCompile Include="ForwardingRule.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SrcDstSolver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ISolver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AreaAvoidancePolicy.cpp">
+      <Filter>Policies</Filter>
+    </ClCompile>
+    <ClCompile Include="AccessControlPolicy.cpp">
+      <Filter>Policies</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

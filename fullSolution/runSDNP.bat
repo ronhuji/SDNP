@@ -1,0 +1,1 @@
+sdnp.exe "test.graph" "rules.txt" "policies.txt"

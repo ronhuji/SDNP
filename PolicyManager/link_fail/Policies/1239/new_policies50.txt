@@ -1,0 +1,42 @@
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.7.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+25->0|1|2->7
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.5.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+25->0|1|2->5
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.32.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+25->0|1|2->7
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.49.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+25->0|1|2->24
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.14.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+25->0|1|2->14
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.3.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+25->0|1|2->3
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.39.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+25->0|1|2->14
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.48.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+25->0|1|2->23
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.28.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+25->0|1|2->3
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.24.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+25->0|1|2->24
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.23.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+25->0|1|2->23
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.45.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+25->0|1|2->20
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.20.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+25->0|1|2->20
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.30.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+25->0|1|2->5

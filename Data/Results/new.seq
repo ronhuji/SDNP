@@ -1,0 +1,2808 @@
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.81.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->81,311->0|1|2->81
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.24.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->24,311->0|1|2->24
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.8.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->8
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.44.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->300,311->0|1|2->300
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.148.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->148
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.17.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->17
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.228.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->228,311->0|1|2->228
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.77.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->77
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.148.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->148,311->0|1|2->148
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.26.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->26
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.72.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->72,311->0|1|2->72
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.139.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->139
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.117.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->117,311->0|1|2->117
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.218.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->218,311->0|1|2->218
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.64.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->64
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.193.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->193
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.157.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->157,311->0|1|2->157
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.44.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->44
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.48.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->48,311->0|1|2->48
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.74.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->74
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.0.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->256,311->0|1|2->256
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.6.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->6
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.190.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->190
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.170.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->170
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.57.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->57,311->0|1|2->57
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.189.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->189
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.179.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->179
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.2.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->2
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.14.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->14,311->0|1|2->14
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.215.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->215,311->0|1|2->215
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.215.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->215
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.201.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->201,311->0|1|2->201
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.38.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->294,311->0|1|2->294
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.24.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->280,311->0|1|2->280
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.165.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->165
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.83.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->83,311->0|1|2->83
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.231.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->231,311->0|1|2->231
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.47.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->47,311->0|1|2->47
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.8.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->8,311->0|1|2->8
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.16.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->16,311->0|1|2->16
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.242.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->242
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.42.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->42,311->0|1|2->42
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.93.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->93
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.211.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->211
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.146.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->146
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.8.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->264,311->0|1|2->264
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.155.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->155
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.53.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->309,311->0|1|2->309
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.181.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->181
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.155.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->155,311->0|1|2->155
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.249.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->249
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.30.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->30,311->0|1|2->30
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.0.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->0,311->0|1|2->0
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.218.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->218
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.75.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->75
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.207.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->207
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.58.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->58
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.93.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->93,311->0|1|2->93
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.198.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->198,311->0|1|2->198
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.3.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->3,311->0|1|2->3
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.230.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->230
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.71.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->71,311->0|1|2->71
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.103.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->103,311->0|1|2->103
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.104.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->104
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.121.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->121,311->0|1|2->121
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.19.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->19
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.35.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->35,311->0|1|2->35
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.182.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->182,311->0|1|2->182
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.12.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->268,311->0|1|2->268
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.119.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->119,311->0|1|2->119
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.192.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->192
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.241.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->241
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.198.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->198
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.37.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->293,311->0|1|2->293
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.46.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->302
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.50.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->306
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.243.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->243
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.45.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->45
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.116.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->116,311->0|1|2->116
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.142.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->142
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.40.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->40,311->0|1|2->40
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.25.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->25,311->0|1|2->25
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.18.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->18,311->0|1|2->18
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.106.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->106,311->0|1|2->106
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.116.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->116
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.73.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->73
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.13.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->269,311->0|1|2->269
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.76.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->76
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.191.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->191
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.33.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->289,311->0|1|2->289
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.126.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->126,311->0|1|2->126
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.203.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->203,311->0|1|2->203
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.160.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->160
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.157.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->157
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.1.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->257,311->0|1|2->257
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.26.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->282,311->0|1|2->282
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.6.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->6,311->0|1|2->6
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.11.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->267
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.91.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->91,311->0|1|2->91
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.46.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->46
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.21.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->277
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.9.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->265
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.36.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->36
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.254.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->254,311->0|1|2->254
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.120.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->120
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.134.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->134,311->0|1|2->134
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.174.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->174,311->0|1|2->174
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.179.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->179,311->0|1|2->179
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.232.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->232
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.49.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->305
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.52.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->308,311->0|1|2->308
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.109.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->109,311->0|1|2->109
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.62.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->62
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.10.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->10,311->0|1|2->10
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.213.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->213,311->0|1|2->213
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.161.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->161
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.183.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->183
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.99.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->99,311->0|1|2->99
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.118.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->118,311->0|1|2->118
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.68.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->68,311->0|1|2->68
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.30.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->30
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.216.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->216
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.37.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->37,311->0|1|2->37
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.226.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->226
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.149.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->149
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.9.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->9
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.10.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->266,311->0|1|2->266
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.11.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->267,311->0|1|2->267
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.11.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->11
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.88.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->88
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.89.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->89
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.133.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->133,311->0|1|2->133
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.25.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->25
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.114.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->114,311->0|1|2->114
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.92.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->92
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.251.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->251,311->0|1|2->251
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.208.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->208
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.39.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->295
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.105.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->105,311->0|1|2->105
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.38.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->294
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.196.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->196
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.238.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->238
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.197.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->197
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.17.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->273,311->0|1|2->273
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.9.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->265,311->0|1|2->265
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.206.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->206,311->0|1|2->206
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.232.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->232,311->0|1|2->232
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.38.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->38,311->0|1|2->38
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.212.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->212
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.118.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->118
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.120.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->120,311->0|1|2->120
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.210.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->210,311->0|1|2->210
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.167.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->167
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.89.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->89,311->0|1|2->89
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.0.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->256
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.22.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->278,311->0|1|2->278
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.236.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->236,311->0|1|2->236
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.31.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->287
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.176.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->176
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.209.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->209
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.166.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->166
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.162.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->162
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.54.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->54
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.13.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->269
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.187.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->187
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.84.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->84,311->0|1|2->84
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.22.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->278
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.151.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->151
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.53.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->53,311->0|1|2->53
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.154.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->154,311->0|1|2->154
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.41.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->41
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.21.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->277,311->0|1|2->277
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.94.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->94
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.159.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->159
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.113.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->113,311->0|1|2->113
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.106.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->106
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.112.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->112
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.72.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->72
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.101.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->101
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.20.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->276
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.229.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->229,311->0|1|2->229
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.4.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->4
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.31.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->31,311->0|1|2->31
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.151.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->151,311->0|1|2->151
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.160.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->160,311->0|1|2->160
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.195.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->195
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.19.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->275,311->0|1|2->275
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.235.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->235
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.17.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->273
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.29.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->29,311->0|1|2->29
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.236.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->236
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.178.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->178
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.29.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->29
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.117.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->117
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.79.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->79,311->0|1|2->79
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.23.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->23,311->0|1|2->23
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.164.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->164,311->0|1|2->164
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.199.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->199
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.239.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->239
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.3.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->259,311->0|1|2->259
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.102.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->102
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.45.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->45,311->0|1|2->45
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.34.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->34,311->0|1|2->34
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.185.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->185
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.141.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->141,311->0|1|2->141
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.161.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->161,311->0|1|2->161
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.60.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->60,311->0|1|2->60
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.6.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->262
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.40.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->296
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.250.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->250
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.246.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->246
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.205.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->205
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.85.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->85,311->0|1|2->85
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.28.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->284,311->0|1|2->284
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.8.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->264
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.154.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->154
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.200.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->200,311->0|1|2->200
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.245.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->245,311->0|1|2->245
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.98.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->98,311->0|1|2->98
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.86.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->86
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.130.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->130
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.204.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->204,311->0|1|2->204
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.80.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->80
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.15.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->15
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.47.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->303,311->0|1|2->303
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.255.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->255
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.134.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->134
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.5.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->261,311->0|1|2->261
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.168.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->168
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.21.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->21,311->0|1|2->21
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.45.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->301,311->0|1|2->301
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.52.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->52,311->0|1|2->52
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.42.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->42
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.131.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->131
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.171.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->171
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.224.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->224
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.44.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->300
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.223.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->223,311->0|1|2->223
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.61.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->61,311->0|1|2->61
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.7.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->7,311->0|1|2->7
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.43.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->43,311->0|1|2->43
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.80.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->80,311->0|1|2->80
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.12.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->268
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.49.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->49,311->0|1|2->49
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.175.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->175,311->0|1|2->175
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.139.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->139,311->0|1|2->139
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.2.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->2,311->0|1|2->2
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.17.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->17,311->0|1|2->17
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.77.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->77,311->0|1|2->77
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.58.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->58,311->0|1|2->58
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.26.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->282
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.30.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->286
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.237.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->237,311->0|1|2->237
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.15.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->15,311->0|1|2->15
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.127.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->127,311->0|1|2->127
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.65.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->65,311->0|1|2->65
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.247.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->247
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.220.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->220,311->0|1|2->220
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.97.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->97
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.115.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->115,311->0|1|2->115
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.203.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->203
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.28.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->284
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.0.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->0
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.152.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->152,311->0|1|2->152
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.5.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->261
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.221.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->221,311->0|1|2->221
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.125.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->125
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.129.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->129
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.33.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->289
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.4.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->4,311->0|1|2->4
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.10.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->10
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.40.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->296,311->0|1|2->296
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.79.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->79
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.2.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->258
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.48.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->304
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.235.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->235,311->0|1|2->235
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.188.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->188
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.25.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->281
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.12.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->12
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.32.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->32,311->0|1|2->32
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.29.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->285
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.187.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->187,311->0|1|2->187
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.144.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->144
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.12.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->12,311->0|1|2->12
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.41.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->297,311->0|1|2->297
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.153.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->153
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.19.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->19,311->0|1|2->19
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.227.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->227
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.125.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->125,311->0|1|2->125
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.9.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->9,311->0|1|2->9
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.107.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->107,311->0|1|2->107
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.168.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->168,311->0|1|2->168
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.39.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->39,311->0|1|2->39
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.22.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->22
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.56.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->56,311->0|1|2->56
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.36.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->292
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.86.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->86,311->0|1|2->86
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.103.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->103
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.194.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->194,311->0|1|2->194
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.244.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->244
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.199.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->199,311->0|1|2->199
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.51.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->51
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.122.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->122,311->0|1|2->122
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.46.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->302,311->0|1|2->302
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.172.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->172,311->0|1|2->172
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.224.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->224,311->0|1|2->224
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.16.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->16
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.145.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->145
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.144.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->144,311->0|1|2->144
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.98.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->98
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.105.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->105
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.20.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->20,311->0|1|2->20
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.223.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->223
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.65.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->65
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.233.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->233
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.48.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->304,311->0|1|2->304
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.123.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->123
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.3.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->3
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.40.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->40
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.42.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->298
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.138.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->138,311->0|1|2->138
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.227.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->227,311->0|1|2->227
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.246.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->246,311->0|1|2->246
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.194.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->194
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.18.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->274
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.42.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->298,311->0|1|2->298
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.55.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->55,311->0|1|2->55
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.165.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->165,311->0|1|2->165
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.53.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->309
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.238.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->238,311->0|1|2->238
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.195.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->195,311->0|1|2->195
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.87.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->87
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.73.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->73,311->0|1|2->73
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.166.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->166,311->0|1|2->166
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.206.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->206
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.211.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->211,311->0|1|2->211
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.47.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->303
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.44.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->44,311->0|1|2->44
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.23.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->279
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.34.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->290
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.210.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->210
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.54.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->310
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.180.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->180
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.51.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->307
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.115.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->115
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.88.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->88,311->0|1|2->88
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.174.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->174
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.41.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->41,311->0|1|2->41
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.100.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->100,311->0|1|2->100
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.27.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->27
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.190.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->190,311->0|1|2->190
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.248.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->248,311->0|1|2->248
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.1.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->257
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.121.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->121
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.158.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->158,311->0|1|2->158
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.90.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->90
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.27.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->27,311->0|1|2->27
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.175.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->175
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.97.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->97,311->0|1|2->97
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.252.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->252,311->0|1|2->252
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.228.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->228
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.56.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->56
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.186.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->186
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.182.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->182
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.141.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->141
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.24.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->24
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.136.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->136,311->0|1|2->136
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.181.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->181,311->0|1|2->181
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.85.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->85
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.4.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->260
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.39.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->295,311->0|1|2->295
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.31.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->287,311->0|1|2->287
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.249.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->249,311->0|1|2->249
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.147.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->147
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.163.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->163,311->0|1|2->163
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.54.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->310,311->0|1|2->310
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.240.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->240,311->0|1|2->240
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.222.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->222
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.14.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->270,311->0|1|2->270
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.140.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->140,311->0|1|2->140
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.16.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->272
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.247.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->247,311->0|1|2->247
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.128.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->128
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.113.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->113
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.131.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->131,311->0|1|2->131
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.225.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->225,311->0|1|2->225
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.5.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->5
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.162.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->162,311->0|1|2->162
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.197.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->197,311->0|1|2->197
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.50.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->50,311->0|1|2->50
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.102.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->102,311->0|1|2->102
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.244.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->244,311->0|1|2->244
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.14.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->14
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.200.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->200
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.239.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->239,311->0|1|2->239
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.159.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->159,311->0|1|2->159
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.234.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->234,311->0|1|2->234
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.201.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->201
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.16.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->272,311->0|1|2->272
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.204.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->204
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.91.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->91
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.241.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->241,311->0|1|2->241
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.75.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->75,311->0|1|2->75
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.25.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->281,311->0|1|2->281
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.207.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->207,311->0|1|2->207
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.214.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->214,311->0|1|2->214
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.209.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->209,311->0|1|2->209
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.173.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->173,311->0|1|2->173
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.90.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->90,311->0|1|2->90
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.164.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->164
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.111.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->111,311->0|1|2->111
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.248.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->248
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.63.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->63,311->0|1|2->63
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.6.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->262,311->0|1|2->262
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.192.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->192,311->0|1|2->192
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.46.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->46,311->0|1|2->46
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.51.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->51,311->0|1|2->51
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.15.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->271
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.124.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->124
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.124.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->124,311->0|1|2->124
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.35.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->291
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.61.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->61
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.129.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->129,311->0|1|2->129
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.37.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->293
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.83.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->83
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.156.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->156,311->0|1|2->156
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.196.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->196,311->0|1|2->196
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.158.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->158
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.43.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->299
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.146.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->146,311->0|1|2->146
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.217.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->217
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.5.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->5,311->0|1|2->5
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.170.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->170,311->0|1|2->170
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.242.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->242,311->0|1|2->242
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.96.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->96,311->0|1|2->96
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.220.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->220
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.37.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->37
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.123.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->123,311->0|1|2->123
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.143.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->143
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.49.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->305,311->0|1|2->305
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.233.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->233,311->0|1|2->233
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.3.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->259
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.4.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->260,311->0|1|2->260
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.163.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->163
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.95.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->95
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.2.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->258,311->0|1|2->258
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.237.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->237
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.183.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->183,311->0|1|2->183
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.45.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->301
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.18.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->18
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.84.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->84
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.69.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->69
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.39.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->39
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.217.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->217,311->0|1|2->217
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.135.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->135,311->0|1|2->135
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.99.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->99
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.150.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->150,311->0|1|2->150
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.208.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->208,311->0|1|2->208
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.7.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->7
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.108.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->108,311->0|1|2->108
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.52.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->52
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.81.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->81
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.100.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->100
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.34.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->34
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.130.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->130,311->0|1|2->130
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.145.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->145,311->0|1|2->145
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.219.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->219
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.186.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->186,311->0|1|2->186
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.70.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->70,311->0|1|2->70
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.212.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->212,311->0|1|2->212
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.110.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->110,311->0|1|2->110
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.150.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->150
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.1.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->1
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.47.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->47
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.74.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->74,311->0|1|2->74
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.169.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->169
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.149.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->149,311->0|1|2->149
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.38.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->38
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.112.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->112,311->0|1|2->112
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.53.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->53
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.225.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->225
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.54.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->54,311->0|1|2->54
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.70.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->70
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.254.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->254
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.234.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->234
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.240.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->240
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.253.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->253
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.19.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->275
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.10.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->266
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.191.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->191,311->0|1|2->191
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.229.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->229
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.62.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->62,311->0|1|2->62
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.132.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->132
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.95.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->95,311->0|1|2->95
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.135.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->135
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.142.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->142,311->0|1|2->142
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.147.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->147,311->0|1|2->147
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.63.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->63
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.32.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->32
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.153.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->153,311->0|1|2->153
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.50.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->50
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.253.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->253,311->0|1|2->253
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.177.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->177
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.137.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->137,311->0|1|2->137
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.20.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->276,311->0|1|2->276
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.71.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->71
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.111.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->111
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.245.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->245
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.184.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->184,311->0|1|2->184
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.202.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->202,311->0|1|2->202
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.29.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->285,311->0|1|2->285
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.167.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->167,311->0|1|2->167
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.57.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->57
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.94.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->94,311->0|1|2->94
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.13.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->13,311->0|1|2->13
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.64.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->64,311->0|1|2->64
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.219.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->219,311->0|1|2->219
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.33.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->33,311->0|1|2->33
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.188.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->188,311->0|1|2->188
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.51.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->307,311->0|1|2->307
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.122.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->122
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.32.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->288
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.1.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->1,311->0|1|2->1
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.55.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->55
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.33.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->33
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.21.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->21
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.48.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->48
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.7.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->263,311->0|1|2->263
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.226.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->226,311->0|1|2->226
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.176.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->176,311->0|1|2->176
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.76.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->76,311->0|1|2->76
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.251.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->251
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.36.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->292,311->0|1|2->292
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.49.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->49
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.67.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->67,311->0|1|2->67
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.68.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->68
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.69.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->69,311->0|1|2->69
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.110.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->110
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.252.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->252
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.35.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->35
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.185.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->185,311->0|1|2->185
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.52.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->308
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.109.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->109
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.15.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->271,311->0|1|2->271
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.180.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->180,311->0|1|2->180
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.136.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->136
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.78.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->78,311->0|1|2->78
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.104.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->104,311->0|1|2->104
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.43.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->43
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.82.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->82,311->0|1|2->82
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.96.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->96
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.27.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->283
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.172.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->172
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.189.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->189,311->0|1|2->189
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.137.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->137
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.156.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->156
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.30.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->286,311->0|1|2->286
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.126.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->126
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.171.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->171,311->0|1|2->171
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.178.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->178,311->0|1|2->178
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.140.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->140
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.27.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->283,311->0|1|2->283
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.177.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->177,311->0|1|2->177
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.11.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->11,311->0|1|2->11
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.87.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->87,311->0|1|2->87
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.255.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->255,311->0|1|2->255
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.221.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->221
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.143.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->143,311->0|1|2->143
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.216.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->216,311->0|1|2->216
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.28.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->28
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.24.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->280
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.13.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->13
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.114.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->114
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.35.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->291,311->0|1|2->291
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.78.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->78
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.26.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->26,311->0|1|2->26
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.43.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->299,311->0|1|2->299
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.222.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->222,311->0|1|2->222
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.82.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->82
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.36.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->36,311->0|1|2->36
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.193.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->193,311->0|1|2->193
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.119.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->119
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.92.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->92,311->0|1|2->92
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.128.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->128,311->0|1|2->128
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.243.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->243,311->0|1|2->243
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.31.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->31
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.152.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->152
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.205.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->205,311->0|1|2->205
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.127.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->127
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.184.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->184
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.133.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->133
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.50.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->306,311->0|1|2->306
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.132.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->132,311->0|1|2->132
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.14.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->270
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.41.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->297
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.59.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->59
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.101.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->101,311->0|1|2->101
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.66.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->66
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.213.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->213
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.18.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->274,311->0|1|2->274
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.250.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->250,311->0|1|2->250
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.60.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->60
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.138.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->138
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.23.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->279,311->0|1|2->279
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.34.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->290,311->0|1|2->290
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.32.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->288,311->0|1|2->288
+SRC_DST
+src=1.1.1.0/24--__--dst=192.169.7.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->263
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.67.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->67
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.59.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->59,311->0|1|2->59
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.107.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->107
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.169.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->169,311->0|1|2->169
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.108.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->108
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.173.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->173
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.23.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->23
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.230.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->230,311->0|1|2->230
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.202.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->202
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.28.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->28,311->0|1|2->28
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.20.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->20
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.214.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->214
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.22.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->22,311->0|1|2->22
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.231.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=11
+311->0|1|2->231
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.66.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=22
+311->3|7|12->66,311->0|1|2->66
+DST
+src=0.0.0.0/0--__--dst=192.168.187.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->187
+DST
+src=0.0.0.0/0--__--dst=192.169.16.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->272
+DST
+src=0.0.0.0/0--__--dst=192.168.211.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->211
+DST
+src=0.0.0.0/0--__--dst=192.168.238.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->238
+DST
+src=0.0.0.0/0--__--dst=192.168.20.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->20
+DST
+src=0.0.0.0/0--__--dst=192.168.224.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->224
+DST
+src=0.0.0.0/0--__--dst=192.168.150.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->150
+DST
+src=0.0.0.0/0--__--dst=192.169.30.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->286
+DST
+src=0.0.0.0/0--__--dst=192.168.119.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->119
+DST
+src=0.0.0.0/0--__--dst=192.168.70.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->70
+DST
+src=0.0.0.0/0--__--dst=192.168.65.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->65
+DST
+src=0.0.0.0/0--__--dst=192.168.195.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->195
+DST
+src=0.0.0.0/0--__--dst=192.168.23.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->23
+DST
+src=0.0.0.0/0--__--dst=192.169.27.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->283
+DST
+src=0.0.0.0/0--__--dst=192.168.41.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->41
+DST
+src=0.0.0.0/0--__--dst=192.168.95.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->95
+DST
+src=0.0.0.0/0--__--dst=192.168.32.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->32
+DST
+src=0.0.0.0/0--__--dst=192.168.44.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->44
+DST
+src=0.0.0.0/0--__--dst=192.169.44.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->300
+DST
+src=0.0.0.0/0--__--dst=192.168.152.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->152
+DST
+src=0.0.0.0/0--__--dst=192.168.110.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->110
+DST
+src=0.0.0.0/0--__--dst=192.168.166.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->166
+DST
+src=0.0.0.0/0--__--dst=192.168.124.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->124
+DST
+src=0.0.0.0/0--__--dst=192.168.200.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->200
+DST
+src=0.0.0.0/0--__--dst=192.168.214.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->214
+DST
+src=0.0.0.0/0--__--dst=192.168.128.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->128
+DST
+src=0.0.0.0/0--__--dst=192.168.220.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->220
+DST
+src=0.0.0.0/0--__--dst=192.168.156.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->156
+DST
+src=0.0.0.0/0--__--dst=192.169.29.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->285
+DST
+src=0.0.0.0/0--__--dst=192.168.194.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->194
+DST
+src=0.0.0.0/0--__--dst=192.168.188.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->188
+DST
+src=0.0.0.0/0--__--dst=192.169.54.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->310
+DST
+src=0.0.0.0/0--__--dst=192.168.146.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->146
+DST
+src=0.0.0.0/0--__--dst=192.168.172.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->172
+DST
+src=0.0.0.0/0--__--dst=192.169.12.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->268
+DST
+src=0.0.0.0/0--__--dst=192.168.240.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->240
+DST
+src=0.0.0.0/0--__--dst=192.169.7.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->263
+DST
+src=0.0.0.0/0--__--dst=192.168.160.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->160
+DST
+src=0.0.0.0/0--__--dst=192.168.42.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->42
+DST
+src=0.0.0.0/0--__--dst=192.168.69.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->69
+DST
+src=0.0.0.0/0--__--dst=192.168.79.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->79
+DST
+src=0.0.0.0/0--__--dst=192.168.163.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->163
+DST
+src=0.0.0.0/0--__--dst=192.168.71.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->71
+DST
+src=0.0.0.0/0--__--dst=192.168.121.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->121
+DST
+src=0.0.0.0/0--__--dst=192.169.52.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->308
+DST
+src=0.0.0.0/0--__--dst=192.168.3.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->3
+DST
+src=0.0.0.0/0--__--dst=192.168.142.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->142
+DST
+src=0.0.0.0/0--__--dst=192.168.171.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->171
+DST
+src=0.0.0.0/0--__--dst=192.169.17.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->273
+DST
+src=0.0.0.0/0--__--dst=192.168.88.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->88
+DST
+src=0.0.0.0/0--__--dst=192.169.51.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->307
+DST
+src=0.0.0.0/0--__--dst=192.168.249.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->249
+DST
+src=0.0.0.0/0--__--dst=192.168.118.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->118
+DST
+src=0.0.0.0/0--__--dst=192.168.225.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->225
+DST
+src=0.0.0.0/0--__--dst=192.168.105.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->105
+DST
+src=0.0.0.0/0--__--dst=192.168.182.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->182
+DST
+src=0.0.0.0/0--__--dst=192.169.39.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->295
+DST
+src=0.0.0.0/0--__--dst=192.168.54.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->54
+DST
+src=0.0.0.0/0--__--dst=192.168.111.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->111
+DST
+src=0.0.0.0/0--__--dst=192.168.92.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->92
+DST
+src=0.0.0.0/0--__--dst=192.168.104.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->104
+DST
+src=0.0.0.0/0--__--dst=192.168.212.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->212
+DST
+src=0.0.0.0/0--__--dst=192.168.174.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->174
+DST
+src=0.0.0.0/0--__--dst=192.168.25.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->25
+DST
+src=0.0.0.0/0--__--dst=192.168.40.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->40
+DST
+src=0.0.0.0/0--__--dst=192.168.2.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->2
+DST
+src=0.0.0.0/0--__--dst=192.169.14.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->270
+DST
+src=0.0.0.0/0--__--dst=192.168.117.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->117
+DST
+src=0.0.0.0/0--__--dst=192.168.190.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->190
+DST
+src=0.0.0.0/0--__--dst=192.168.183.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->183
+DST
+src=0.0.0.0/0--__--dst=192.168.159.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->159
+DST
+src=0.0.0.0/0--__--dst=192.169.34.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->290
+DST
+src=0.0.0.0/0--__--dst=192.168.19.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->19
+DST
+src=0.0.0.0/0--__--dst=192.168.246.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->246
+DST
+src=0.0.0.0/0--__--dst=192.168.106.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->106
+DST
+src=0.0.0.0/0--__--dst=192.168.248.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->248
+DST
+src=0.0.0.0/0--__--dst=192.168.51.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->51
+DST
+src=0.0.0.0/0--__--dst=192.168.138.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->138
+DST
+src=0.0.0.0/0--__--dst=192.168.17.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->17
+DST
+src=0.0.0.0/0--__--dst=192.168.184.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->184
+DST
+src=0.0.0.0/0--__--dst=192.168.46.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->46
+DST
+src=0.0.0.0/0--__--dst=192.168.242.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->242
+DST
+src=0.0.0.0/0--__--dst=192.168.221.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->221
+DST
+src=0.0.0.0/0--__--dst=192.168.206.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->206
+DST
+src=0.0.0.0/0--__--dst=192.168.134.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->134
+DST
+src=0.0.0.0/0--__--dst=192.168.204.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->204
+DST
+src=0.0.0.0/0--__--dst=192.168.112.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->112
+DST
+src=0.0.0.0/0--__--dst=192.168.53.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->53
+DST
+src=0.0.0.0/0--__--dst=192.168.45.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->45
+DST
+src=0.0.0.0/0--__--dst=192.168.250.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->250
+DST
+src=0.0.0.0/0--__--dst=192.168.10.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->10
+DST
+src=0.0.0.0/0--__--dst=192.168.193.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->193
+DST
+src=0.0.0.0/0--__--dst=192.168.143.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->143
+DST
+src=0.0.0.0/0--__--dst=192.169.8.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->264
+DST
+src=0.0.0.0/0--__--dst=192.168.241.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->241
+DST
+src=0.0.0.0/0--__--dst=192.169.53.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->309
+DST
+src=0.0.0.0/0--__--dst=192.168.178.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->178
+DST
+src=0.0.0.0/0--__--dst=192.168.181.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->181
+DST
+src=0.0.0.0/0--__--dst=192.168.252.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->252
+DST
+src=0.0.0.0/0--__--dst=192.168.81.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->81
+DST
+src=0.0.0.0/0--__--dst=192.168.6.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->6
+DST
+src=0.0.0.0/0--__--dst=192.169.5.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->261
+DST
+src=0.0.0.0/0--__--dst=192.168.201.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->201
+DST
+src=0.0.0.0/0--__--dst=192.168.67.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->67
+DST
+src=0.0.0.0/0--__--dst=192.168.247.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->247
+DST
+src=0.0.0.0/0--__--dst=192.168.191.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->191
+DST
+src=0.0.0.0/0--__--dst=192.168.168.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->168
+DST
+src=0.0.0.0/0--__--dst=192.168.114.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->114
+DST
+src=0.0.0.0/0--__--dst=192.168.55.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->55
+DST
+src=0.0.0.0/0--__--dst=192.168.202.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->202
+DST
+src=0.0.0.0/0--__--dst=192.168.164.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->164
+DST
+src=0.0.0.0/0--__--dst=192.169.43.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->299
+DST
+src=0.0.0.0/0--__--dst=192.168.136.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->136
+DST
+src=0.0.0.0/0--__--dst=192.168.135.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->135
+DST
+src=0.0.0.0/0--__--dst=192.168.87.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->87
+DST
+src=0.0.0.0/0--__--dst=192.168.93.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->93
+DST
+src=0.0.0.0/0--__--dst=192.168.198.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->198
+DST
+src=0.0.0.0/0--__--dst=192.169.18.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->274
+DST
+src=0.0.0.0/0--__--dst=192.168.29.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->29
+DST
+src=0.0.0.0/0--__--dst=192.168.192.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->192
+DST
+src=0.0.0.0/0--__--dst=192.168.179.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->179
+DST
+src=0.0.0.0/0--__--dst=192.169.32.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->288
+DST
+src=0.0.0.0/0--__--dst=192.168.63.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->63
+DST
+src=0.0.0.0/0--__--dst=192.168.139.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->139
+DST
+src=0.0.0.0/0--__--dst=192.168.50.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->50
+DST
+src=0.0.0.0/0--__--dst=192.168.180.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->180
+DST
+src=0.0.0.0/0--__--dst=192.168.34.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->34
+DST
+src=0.0.0.0/0--__--dst=192.168.82.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->82
+DST
+src=0.0.0.0/0--__--dst=192.168.21.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->21
+DST
+src=0.0.0.0/0--__--dst=192.168.31.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->31
+DST
+src=0.0.0.0/0--__--dst=192.169.1.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->257
+DST
+src=0.0.0.0/0--__--dst=192.169.35.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->291
+DST
+src=0.0.0.0/0--__--dst=192.168.0.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->0
+DST
+src=0.0.0.0/0--__--dst=192.168.175.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->175
+DST
+src=0.0.0.0/0--__--dst=192.168.137.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->137
+DST
+src=0.0.0.0/0--__--dst=192.169.37.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->293
+DST
+src=0.0.0.0/0--__--dst=192.168.11.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->11
+DST
+src=0.0.0.0/0--__--dst=192.168.72.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->72
+DST
+src=0.0.0.0/0--__--dst=192.169.19.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->275
+DST
+src=0.0.0.0/0--__--dst=192.168.122.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->122
+DST
+src=0.0.0.0/0--__--dst=192.168.94.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->94
+DST
+src=0.0.0.0/0--__--dst=192.169.38.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->294
+DST
+src=0.0.0.0/0--__--dst=192.169.15.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->271
+DST
+src=0.0.0.0/0--__--dst=192.168.149.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->149
+DST
+src=0.0.0.0/0--__--dst=192.168.43.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->43
+DST
+src=0.0.0.0/0--__--dst=192.168.7.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->7
+DST
+src=0.0.0.0/0--__--dst=192.168.151.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->151
+DST
+src=0.0.0.0/0--__--dst=192.168.227.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->227
+DST
+src=0.0.0.0/0--__--dst=192.168.235.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->235
+DST
+src=0.0.0.0/0--__--dst=192.168.173.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->173
+DST
+src=0.0.0.0/0--__--dst=192.168.208.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->208
+DST
+src=0.0.0.0/0--__--dst=192.168.37.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->37
+DST
+src=0.0.0.0/0--__--dst=192.169.31.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->287
+DST
+src=0.0.0.0/0--__--dst=192.168.120.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->120
+DST
+src=0.0.0.0/0--__--dst=192.168.77.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->77
+DST
+src=0.0.0.0/0--__--dst=192.168.39.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->39
+DST
+src=0.0.0.0/0--__--dst=192.168.170.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->170
+DST
+src=0.0.0.0/0--__--dst=192.168.62.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->62
+DST
+src=0.0.0.0/0--__--dst=192.168.132.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->132
+DST
+src=0.0.0.0/0--__--dst=192.168.91.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->91
+DST
+src=0.0.0.0/0--__--dst=192.168.155.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->155
+DST
+src=0.0.0.0/0--__--dst=192.169.11.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->267
+DST
+src=0.0.0.0/0--__--dst=192.168.207.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->207
+DST
+src=0.0.0.0/0--__--dst=192.168.75.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->75
+DST
+src=0.0.0.0/0--__--dst=192.168.4.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->4
+DST
+src=0.0.0.0/0--__--dst=192.168.243.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->243
+DST
+src=0.0.0.0/0--__--dst=192.169.42.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->298
+DST
+src=0.0.0.0/0--__--dst=192.168.59.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->59
+DST
+src=0.0.0.0/0--__--dst=192.168.219.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->219
+DST
+src=0.0.0.0/0--__--dst=192.168.234.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->234
+DST
+src=0.0.0.0/0--__--dst=192.168.123.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->123
+DST
+src=0.0.0.0/0--__--dst=192.168.228.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->228
+DST
+src=0.0.0.0/0--__--dst=192.168.209.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->209
+DST
+src=0.0.0.0/0--__--dst=192.168.205.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->205
+DST
+src=0.0.0.0/0--__--dst=192.168.85.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->85
+DST
+src=0.0.0.0/0--__--dst=192.168.218.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->218
+DST
+src=0.0.0.0/0--__--dst=192.169.26.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->282
+DST
+src=0.0.0.0/0--__--dst=192.168.97.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->97
+DST
+src=0.0.0.0/0--__--dst=192.168.89.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->89
+DST
+src=0.0.0.0/0--__--dst=192.168.18.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->18
+DST
+src=0.0.0.0/0--__--dst=192.168.35.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->35
+DST
+src=0.0.0.0/0--__--dst=192.168.28.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->28
+DST
+src=0.0.0.0/0--__--dst=192.168.255.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->255
+DST
+src=0.0.0.0/0--__--dst=192.168.1.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->1
+DST
+src=0.0.0.0/0--__--dst=192.168.73.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->73
+DST
+src=0.0.0.0/0--__--dst=192.168.109.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->109
+DST
+src=0.0.0.0/0--__--dst=192.169.45.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->301
+DST
+src=0.0.0.0/0--__--dst=192.168.140.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->140
+DST
+src=0.0.0.0/0--__--dst=192.169.36.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->292
+DST
+src=0.0.0.0/0--__--dst=192.168.233.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->233
+DST
+src=0.0.0.0/0--__--dst=192.168.162.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->162
+DST
+src=0.0.0.0/0--__--dst=192.168.49.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->49
+DST
+src=0.0.0.0/0--__--dst=192.168.165.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->165
+DST
+src=0.0.0.0/0--__--dst=192.168.5.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->5
+DST
+src=0.0.0.0/0--__--dst=192.169.47.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->303
+DST
+src=0.0.0.0/0--__--dst=192.168.33.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->33
+DST
+src=0.0.0.0/0--__--dst=192.168.237.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->237
+DST
+src=0.0.0.0/0--__--dst=192.168.147.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->147
+DST
+src=0.0.0.0/0--__--dst=192.168.68.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->68
+DST
+src=0.0.0.0/0--__--dst=192.168.101.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->101
+DST
+src=0.0.0.0/0--__--dst=192.168.239.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->239
+DST
+src=0.0.0.0/0--__--dst=192.168.76.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->76
+DST
+src=0.0.0.0/0--__--dst=192.168.223.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->223
+DST
+src=0.0.0.0/0--__--dst=192.168.30.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->30
+DST
+src=0.0.0.0/0--__--dst=192.169.3.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->259
+DST
+src=0.0.0.0/0--__--dst=192.169.48.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->304
+DST
+src=0.0.0.0/0--__--dst=192.169.2.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->258
+DST
+src=0.0.0.0/0--__--dst=192.168.154.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->154
+DST
+src=0.0.0.0/0--__--dst=192.168.47.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->47
+DST
+src=0.0.0.0/0--__--dst=192.168.16.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->16
+DST
+src=0.0.0.0/0--__--dst=192.168.145.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->145
+DST
+src=0.0.0.0/0--__--dst=192.168.203.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->203
+DST
+src=0.0.0.0/0--__--dst=192.168.113.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->113
+DST
+src=0.0.0.0/0--__--dst=192.168.217.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->217
+DST
+src=0.0.0.0/0--__--dst=192.168.108.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->108
+DST
+src=0.0.0.0/0--__--dst=192.168.98.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->98
+DST
+src=0.0.0.0/0--__--dst=192.169.33.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->289
+DST
+src=0.0.0.0/0--__--dst=192.168.141.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->141
+DST
+src=0.0.0.0/0--__--dst=192.169.25.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->281
+DST
+src=0.0.0.0/0--__--dst=192.168.52.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->52
+DST
+src=0.0.0.0/0--__--dst=192.168.232.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->232
+DST
+src=0.0.0.0/0--__--dst=192.169.41.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->297
+DST
+src=0.0.0.0/0--__--dst=192.169.24.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->280
+DST
+src=0.0.0.0/0--__--dst=192.169.20.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->276
+DST
+src=0.0.0.0/0--__--dst=192.168.185.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->185
+DST
+src=0.0.0.0/0--__--dst=192.168.230.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->230
+DST
+src=0.0.0.0/0--__--dst=192.168.161.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->161
+DST
+src=0.0.0.0/0--__--dst=192.169.22.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->278
+DST
+src=0.0.0.0/0--__--dst=192.169.23.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->279
+DST
+src=0.0.0.0/0--__--dst=192.168.177.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->177
+DST
+src=0.0.0.0/0--__--dst=192.168.115.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->115
+DST
+src=0.0.0.0/0--__--dst=192.168.103.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->103
+DST
+src=0.0.0.0/0--__--dst=192.168.100.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->100
+DST
+src=0.0.0.0/0--__--dst=192.168.245.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->245
+DST
+src=0.0.0.0/0--__--dst=192.168.84.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->84
+DST
+src=0.0.0.0/0--__--dst=192.168.12.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->12
+DST
+src=0.0.0.0/0--__--dst=192.168.254.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->254
+DST
+src=0.0.0.0/0--__--dst=192.168.14.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->14
+DST
+src=0.0.0.0/0--__--dst=192.168.216.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->216
+DST
+src=0.0.0.0/0--__--dst=192.168.116.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->116
+DST
+src=0.0.0.0/0--__--dst=192.168.244.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->244
+DST
+src=0.0.0.0/0--__--dst=192.168.199.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->199
+DST
+src=0.0.0.0/0--__--dst=192.168.144.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->144
+DST
+src=0.0.0.0/0--__--dst=192.168.197.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->197
+DST
+src=0.0.0.0/0--__--dst=192.168.56.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->56
+DST
+src=0.0.0.0/0--__--dst=192.169.46.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->302
+DST
+src=0.0.0.0/0--__--dst=1.1.1.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->311
+DST
+src=0.0.0.0/0--__--dst=192.168.27.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->27
+DST
+src=0.0.0.0/0--__--dst=192.168.236.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->236
+DST
+src=0.0.0.0/0--__--dst=192.168.130.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->130
+DST
+src=0.0.0.0/0--__--dst=192.168.22.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->22
+DST
+src=0.0.0.0/0--__--dst=192.168.176.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->176
+DST
+src=0.0.0.0/0--__--dst=192.168.148.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->148
+DST
+src=0.0.0.0/0--__--dst=192.168.102.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->102
+DST
+src=0.0.0.0/0--__--dst=192.169.49.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->305
+DST
+src=0.0.0.0/0--__--dst=192.168.61.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->61
+DST
+src=0.0.0.0/0--__--dst=192.168.131.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->131
+DST
+src=0.0.0.0/0--__--dst=192.168.83.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->83
+DST
+src=0.0.0.0/0--__--dst=192.169.10.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->266
+DST
+src=0.0.0.0/0--__--dst=192.168.36.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->36
+DST
+src=0.0.0.0/0--__--dst=1.1.2.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->311
+DST
+src=0.0.0.0/0--__--dst=192.168.231.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->231
+DST
+src=0.0.0.0/0--__--dst=192.168.158.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->158
+DST
+src=0.0.0.0/0--__--dst=192.168.99.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->99
+DST
+src=0.0.0.0/0--__--dst=192.168.48.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->48
+DST
+src=0.0.0.0/0--__--dst=192.168.226.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->226
+DST
+src=0.0.0.0/0--__--dst=192.168.24.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->24
+DST
+src=0.0.0.0/0--__--dst=192.168.133.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->133
+DST
+src=0.0.0.0/0--__--dst=192.168.64.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->64
+DST
+src=0.0.0.0/0--__--dst=192.169.9.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->265
+DST
+src=0.0.0.0/0--__--dst=192.168.57.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->57
+DST
+src=0.0.0.0/0--__--dst=192.168.107.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->107
+DST
+src=0.0.0.0/0--__--dst=192.168.222.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->222
+DST
+src=0.0.0.0/0--__--dst=192.168.9.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->9
+DST
+src=0.0.0.0/0--__--dst=192.168.169.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->169
+DST
+src=0.0.0.0/0--__--dst=192.168.86.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->86
+DST
+src=0.0.0.0/0--__--dst=192.168.127.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->127
+DST
+src=0.0.0.0/0--__--dst=192.168.153.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->153
+DST
+src=0.0.0.0/0--__--dst=192.168.213.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->213
+DST
+src=0.0.0.0/0--__--dst=192.169.28.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->284
+DST
+src=0.0.0.0/0--__--dst=192.168.66.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->66
+DST
+src=0.0.0.0/0--__--dst=192.168.253.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->253
+DST
+src=0.0.0.0/0--__--dst=192.168.186.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->186
+DST
+src=0.0.0.0/0--__--dst=192.169.50.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->306
+DST
+src=0.0.0.0/0--__--dst=192.168.38.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->38
+DST
+src=0.0.0.0/0--__--dst=192.169.0.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->256
+DST
+src=0.0.0.0/0--__--dst=192.169.6.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->262
+DST
+src=0.0.0.0/0--__--dst=192.168.129.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->129
+DST
+src=0.0.0.0/0--__--dst=192.169.4.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->260
+DST
+src=0.0.0.0/0--__--dst=192.168.96.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->96
+DST
+src=0.0.0.0/0--__--dst=192.168.251.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->251
+DST
+src=0.0.0.0/0--__--dst=192.169.13.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->269
+DST
+src=0.0.0.0/0--__--dst=192.168.210.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->210
+DST
+src=0.0.0.0/0--__--dst=192.168.78.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->78
+DST
+src=0.0.0.0/0--__--dst=192.168.189.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->189
+DST
+src=0.0.0.0/0--__--dst=192.168.58.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->58
+DST
+src=0.0.0.0/0--__--dst=192.168.80.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->80
+DST
+src=0.0.0.0/0--__--dst=192.168.74.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->74
+DST
+src=0.0.0.0/0--__--dst=192.168.167.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->167
+DST
+src=0.0.0.0/0--__--dst=192.169.40.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->296
+DST
+src=0.0.0.0/0--__--dst=192.168.26.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->26
+DST
+src=0.0.0.0/0--__--dst=192.168.15.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->15
+DST
+src=0.0.0.0/0--__--dst=192.168.229.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->229
+DST
+src=0.0.0.0/0--__--dst=192.168.60.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->60
+DST
+src=0.0.0.0/0--__--dst=192.168.215.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->215
+DST
+src=0.0.0.0/0--__--dst=192.168.13.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->13
+DST
+src=0.0.0.0/0--__--dst=192.168.8.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->8
+DST
+src=0.0.0.0/0--__--dst=192.168.157.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->157
+DST
+src=0.0.0.0/0--__--dst=192.169.21.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->277
+DST
+src=0.0.0.0/0--__--dst=192.168.125.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->125
+DST
+src=0.0.0.0/0--__--dst=192.168.126.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->126
+DST
+src=0.0.0.0/0--__--dst=192.168.90.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->90
+DST
+src=0.0.0.0/0--__--dst=192.168.196.0/24--__--predicate_representation=[{'*': '*'}]--__--priority=1
+->196
+SRC_DST
+src=1.1.1.0/24--__--dst=192.168.0.100/32--__--predicate_representation=[{'dst_port': '80'}]--__--priority=23
+311->3|7|12->0,!311->7->0,311->0|1|2->0
