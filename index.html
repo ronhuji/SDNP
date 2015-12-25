@@ -57,19 +57,25 @@ policies and on a broad variety of networks.</p>
 <a id="running-the-system" class="anchor" href="#running-the-system" aria-hidden="true"><span class="octicon octicon-link"></span></a>Running the System.</h3>
 
 <p>If you wish to run Selma on your own network all you have to do is the following:
-1. Download "full solution" directory to a windows computer.
-1. Edit the graph file (test.graph) as follows:</p>
+1. Download "full solution" directory to a windows computer.</p>
+
+<ol>
+<li><p>Edit the graph file (test.graph) as follows:</p></li>
+</ol>
 
 <ul>
 <li>The first row is the number of nodes (switches or routers) in your graph. The nodes will be identified by a number between 0 and this number minus one.</li>
-<li>After a blank row each row represents a directed edge with its weight. For example a directed edge from node "1" to node "2" with weight 4 will be written: "1 2 4".</li>
+<li><p>After a blank row each row represents a directed edge with its weight. For example a directed edge from node "1" to node "2" with weight 4 will be written: "1 2 4".</p></li>
+</ul>
+
+<ol>
 <li>Edit the policies input file (policies_input.py) as follows:</li>
 <li>Give names to ip subnets.</li>
 <li>Add each network function to FUNCTIONS_AND_AREAS map, and state where it resides. An integer represents the node in the graph, and a tuple an undirected edge.</li>
 <li>Add groups to the GROUPS map, by stating which ip subnets they include.</li>
 <li>Put in the IP_LOCATIONS map the location (node) of each subnet.</li>
 <li>Add policies as shown in the file to the POLICIES list.</li>
-</ul>
+</ol>
       </section>
     </div>
 
