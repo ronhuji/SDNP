@@ -56,10 +56,10 @@ policies and on a broad variety of networks.</p>
 <h3>
 <a id="running-the-system" class="anchor" href="#running-the-system" aria-hidden="true"><span class="octicon octicon-link"></span></a>Running the System.</h3>
 
-<p>If you wish to run Selma on your own network all you have to do is the following:
-1. Download "full solution" directory to a windows computer.</p>
+<p>If you wish to run Selma on your own network all you have to do is the following:</p>
 
 <ol>
+<li><p>Download "full solution" directory to a windows computer.</p></li>
 <li><p>Edit the graph file (test.graph) as follows:</p></li>
 </ol>
 
@@ -69,13 +69,16 @@ policies and on a broad variety of networks.</p>
 </ul>
 
 <ol>
-<li>Edit the policies input file (policies_input.py) as follows:</li>
+<li><p>Edit the policies input file (policies_input.py) as follows:</p></li>
+</ol>
+
+<ul>
 <li>Give names to ip subnets.</li>
 <li>Add each network function to FUNCTIONS_AND_AREAS map, and state where it resides. An integer represents the node in the graph, and a tuple an undirected edge.</li>
 <li>Add groups to the GROUPS map, by stating which ip subnets they include.</li>
 <li>Put in the IP_LOCATIONS map the location (node) of each subnet.</li>
 <li>Add policies as shown in the file to the POLICIES list.</li>
-</ol>
+</ul>
       </section>
     </div>
 
