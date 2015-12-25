@@ -1,3 +1,0 @@
-SRC_DST
-src=0--__--dst=0--__--predicate_representation=--__--priority=1
-0->5->7->6,!0->6

@@ -34,7 +34,7 @@ void SrcDstSolver::solve()
 		createForwardingRules();
 	}
 
-	printRules();
+	//printRules();
 }
 
 void SrcDstSolver::readPolicies(const string& policiesLine)

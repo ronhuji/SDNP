@@ -53,7 +53,7 @@ void DestinationSolver::solve()
 
 	createForwardingRules();
 	
-	printRules();
+	//printRules();
 }
 
 void DestinationSolver::createForwardingRules()
