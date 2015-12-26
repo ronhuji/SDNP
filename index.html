@@ -59,16 +59,12 @@ policies and on a broad variety of networks.</p>
 <p>If you wish to run Selma on your own network all you have to do is the following:</p>
 
 <ol>
-<li><p>Download "full solution" directory to a windows computer.</p></li>
-<li><p>Edit the graph file (test.graph) as follows:</p></li>
-</ol>
-
-<ul>
-<li>The first row is the number of nodes (switches or routers) in your graph. The nodes will be identified by a number between 0 and this number minus one.</li>
-<li><p>After a blank row each row represents a directed edge with its weight. For example a directed edge from node "1" to node "2" with weight 4 will be written: "1 2 4".</p></li>
-</ul>
-
-<ol>
+<li>Download "full solution" directory to a windows computer with python 2.7.</li>
+<li>Edit the graph file (test.graph) as follows:</li>
+<li>1. The first row is the number of nodes (switches or routers) in your graph. The nodes will be identified by a number between 0 and this number minus one.</li>
+<li><ol>
+<li>After a blank row each row represents a directed edge with its weight. For example a directed edge from node "1" to node "2" with weight 4 will be written: "1 2 4".</li>
+</ol></li>
 <li><p>Edit the policies input file (policies_input.py) as follows:</p></li>
 </ol>
 
